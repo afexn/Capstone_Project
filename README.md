@@ -2,7 +2,8 @@
 
 # Overview
 To visualize the data set for this project, I used interactive plots from pandas, matplotlib, and seaborn. This data set contains information on 210 countries' responses to the effects of COVID-19 on the global economy.
-The COVID-19 virus's effects have significantly altered the international economy as it spreads around the world. We determine how much COVID-19 has an impact on the world economy. In order to measure changes in the global market and its association with COVID-19 cases, I take into account COVID-19 daily confirmed cases and gdp per capita data within the COVID-19 timeframe.
+
+The COVID-19 virus's effects have significantly altered the international economy as it spreads around the world. I determine how much COVID-19 has an impact on the world economy. In order to measure changes in the global market and its association with COVID-19 cases, I take into account COVID-19 daily confirmed cases and gdp per capita data within the COVID-19 timeframe.
 
 The analysis's primary goal is to make predictions. In order to determine the association between the general GDP, the human development index, and the overall death rate, I will use linear regression techniques in this research. The best candidate algorithm will then be selected from the first results. Building a model that precisely predicts how each nation's global economy will be affected is the aim of this project.
 
