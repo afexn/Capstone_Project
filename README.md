@@ -14,7 +14,7 @@ Due to pandamic, the provided data cannot accurately reflect the global market's
 
 As a result, I would consider using the Ridge model, as it best fits the data in terms of accuracy scores.
 
-Tools Used
+# Tools Used
 Python libraries:-
 1. Pandas
 2. Sklearn
